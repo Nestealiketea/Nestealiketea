@@ -54,6 +54,7 @@ I'm an Unreal Engine 4/5 developer. I became interested in games at the age of 1
 
 ___
 
-### [`Website`](https://www.nesteagames.com/home) | [`YouTube`](http://www.youtube.com/@nest_game) | [`Linkedin`](https://www.linkedin.com/in/valeriisafronov) | [`Gmail`​](nestgamehelp@gmail.com)
+### [`WEBSITE`](https://www.nesteagames.com/home) | [`YOUTUBE`](http://www.youtube.com/@nest_game) | [`LINKEDIN`](https://www.linkedin.com/in/valeriisafronov) | [`PATREON`​](https://www.patreon.com/gamenestea) | [`DISCORD`](https://discord.com/invite/gVtfXVzane)) | [`SKETCHFAB`](https://sketchfab.com/gamenestea) | [`ARTSTATION`](https://www.artstation.com/nestea)
+
 
 ___
