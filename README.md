@@ -26,7 +26,7 @@ I'm an Unreal Engine Generalist and vehicle simulator creator for PC and VR. Spe
 ### Education & Courses
 
 - [State University of Telecommunications](https://duikt.edu.ua/ua/427-zagalna-informaciya-kafedra-shtuchnogo-intelektu) | Bachelor of Artificial Intelligence | Sep 2021 - June 2025
-- [Udemy - Unreal Engine 5 C++ Developer Course ](https://www.udemy.com/share/101Weu3@L55Z5nPR3hYJSner3wlq1pDUO6vjWWnsOc_hhxjwNkPb9SvcLGoRtxs3MFhovTpISw==/) | Oct 2023 - Present
+- [Udemy - Unreal Engine 5 C++ Developer Course ](https://www.udemy.com/share/101Weu3@L55Z5nPR3hYJSner3wlq1pDUO6vjWWnsOc_hhxjwNkPb9SvcLGoRtxs3MFhovTpISw==/) |  Aug 2025 - Present
 - [Udemy - Ultimate Git Course](https://www.udemy.com/certificate/UC-e96f1ef0-115f-44b8-9255-c9a3b431e28d/) | Dec 2023 | [Certificate](https://drive.google.com/file/d/1ONZyWZeVAHUbFx5eyW2RVqncBPIg62CZ/view?usp=sharing)
 - Second Place Smart IT Achievement Game Design | May 2023| [Certificate](https://drive.google.com/file/d/1iQoJqtUR4nFxLbIROItOF_SEp0JfIM56/view?usp=sharing)
 - [State University of Telecommunications](https://duikt.edu.ua/ua/427-zagalna-informaciya-kafedra-shtuchnogo-intelektu) | Basics of Unreal Engine Blueprints | Sep 2021 - Feb 2022
