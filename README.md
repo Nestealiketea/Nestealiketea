@@ -51,7 +51,7 @@ I'm an Unreal Engine Generalist and vehicle simulator creator for PC and VR. Spe
 
 ___
 
-### [`WEBSITE`](https://www.nesteagames.com/home) | [`YOUTUBE`](https://www.youtube.com/@ValeriiSafronov) | [`LINKEDIN`](https://www.linkedin.com/in/valeriisafronov) | [`PATREON`​](https://www.patreon.com/gamenestea) | [`DISCORD`](https://discord.com/invite/gVtfXVzane) | [`SKETCHFAB`](https://sketchfab.com/gamenestea) | [`ARTSTATION`](https://www.artstation.com/nestea)
+### [`WEBSITE`](https://www.nesteagames.com/home) | [`YOUTUBE`](https://www.youtube.com/@ValeriiSafronov) | [`LINKEDIN`](https://www.linkedin.com/in/valeriisafronov) | [`PATREON`​](https://www.patreon.com/gamenestea) | [`SKETCHFAB`](https://sketchfab.com/gamenestea) | [`ARTSTATION`](https://www.artstation.com/nestea)
 
 
 ___
