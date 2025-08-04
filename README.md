@@ -19,7 +19,7 @@ I'm an Unreal Engine Generalist and vehicle simulator creator for PC and VR. Spe
 
   Prototyping PC/VR military vehicle simulators. *(For Customers)*
   
-- [No Mercy Game](https://www.nesteagames.com/home) | Unreal Engine Developer | Mar 2018 - Apr 2023**
+- **[No Mercy Game](https://www.nesteagames.com/home) | Unreal Engine Developer | Mar 2018 - Apr 2023**
 
   Portfolio project inspired by the events in Ukraine on Feb 24, 2022, set in an alternate reality. *(For Portfolio)*
   
