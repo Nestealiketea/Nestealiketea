@@ -1,51 +1,44 @@
-![Header](https://github.com/Nestealiketea/Nestealiketea/blob/master/Images/Header.png)
+<!-- ![Header](https://github.com/Nestealiketea/Nestealiketea/blob/master/Images/Header.png) -->
 
-# Valerii Safronov - Junior Unreal Engine Generalist
+# Valerii Safronov - Unreal Engine Generalist
 
 ### Professional Profile
-I'm an Unreal Engine 4/5 developer. I became interested in games at the age of 13 and later started learning to program on Cryengine 5 at the age of 16, but eventually switched to Unreal Engine 4. I study at the university (SUT) on an individual basis and also actively maintain a YouTube channel, share development experience and progress, create tutorials, teach courses at my university for those who want to learn how to work in UE 4/5. Therefore, I can provide services for the development of game parts, but I would like to join a team of professionals who are also passionate about games, learn new things, share experiences and make the world of games even brighter. 
+I'm an Unreal Engine Generalist and vehicle simulator creator for PC and VR. Specializes in rapid integration of gameplay mechanics using Unreal Engine to develop demos and interactive showcases. Delivered marketing projects to demonstrate business capabilities and produced Unreal Engine educational videos for clients and a personal YouTube channel. Also contributed to PC/VR vehicle systems and AI vehicle detection solutions. Holds a bachelor’s degree in Artificial Intelligence from the State University of Telecommunications (SUT). Always open to new opportunities, with a strong motivation to collaborate with passionate teams and deliver high-quality game experiences.
 
 ### Work Experience
 
-- **RuckusDev | Junior Unreal Engine Generalist, (Mar 2024 - Present)**
-  
-  PC and VR vehicle simulators, educational video content for Youtube channel. *(Contract)*
+- **RuckusDev</u> | <u>Junior Unreal Engine Generalist</u> | <u>Mar 2024 - Present**
 
-- **AGS (Advanced Game System) | Unreal Engine Developer, (Oct 2023 - Present)**
-  
-  Game System for Character and Vehicle logic. *(For Portfolio & Customers)*
-  
-- **Freelance (YouTube, Fiverr, Linkedin) | Unreal Engine Developer, (Oct 2021 - Nov 2022)**
+  PC/VR military vehicle simulators, AI vehicle detection solutions, Educational video content. *(Contract)*
 
-  Character and military Vehicle logic. *(For Customers)*
+- **AGS (Advanced Game System) | Unreal Engine Developer | Oct 2023 - Oct 2024**
   
-- **No Mercy (PC Game) | Unreal Engine Developer, (April 2017 - Present)**
+  PC/VR military vehicle simulators. *(For Portfolio & Customers)*
+  
+- **Freelance | Unreal Engine Developer | Oct 2021 - Present**
 
-  My main project and collection of my work and knowledge. The events take place in another reality and are based on the events of February 24, 2022. *(For Portfolio)*
+  Prototyping PC/VR military vehicle simulators. *(For Customers)*
+  
+- [No Mercy Game](https://www.nesteagames.com/home) | Unreal Engine Developer | Mar 2018 - Apr 2023**
+
+  Portfolio project inspired by the events in Ukraine on Feb 24, 2022, set in an alternate reality. *(For Portfolio)*
   
 ### Education & Courses
 
-- [State University of Telecommunications (SUT)](https://duikt.edu.ua/ua/427-zagalna-informaciya-kafedra-shtuchnogo-intelektu)
-
-  AI (Department of Artificial Intelligence) **(Sep 2021 - Present)**
-
-- [Second Place Smart IT Achievement Game Design](https://drive.google.com/file/d/1iQoJqtUR4nFxLbIROItOF_SEp0JfIM56/view?usp=sharing) **(May 2021)**
-
-- [Udemy - Unreal Engine 5 C++ Developer](https://www.udemy.com/share/101Weu3@L55Z5nPR3hYJSner3wlq1pDUO6vjWWnsOc_hhxjwNkPb9SvcLGoRtxs3MFhovTpISw==/) - 29 h. **(Oct 2023 - Present)** 
-
-- [Udemy - Ultimate Git Course](https://www.udemy.com/certificate/UC-e96f1ef0-115f-44b8-9255-c9a3b431e28d/) - 6 h. **(Dec 2023)** *[`Certificate`](https://drive.google.com/file/d/1ONZyWZeVAHUbFx5eyW2RVqncBPIg62CZ/view?usp=sharing)*
-
-- SUT - Basics of Unreal Engine 4/5 Blueprints **(Sep 2021 - Feb 2021)** 
-
+- [State University of Telecommunications](https://duikt.edu.ua/ua/427-zagalna-informaciya-kafedra-shtuchnogo-intelektu) | Bachelor of Artificial Intelligence | Sep 2021 - June 2025
+- [Udemy - Unreal Engine 5 C++ Developer Course ](https://www.udemy.com/share/101Weu3@L55Z5nPR3hYJSner3wlq1pDUO6vjWWnsOc_hhxjwNkPb9SvcLGoRtxs3MFhovTpISw==/) | Oct 2023 - Present
+- [Udemy - Ultimate Git Course](https://www.udemy.com/certificate/UC-e96f1ef0-115f-44b8-9255-c9a3b431e28d/) | Dec 2023 | [Certificate](https://drive.google.com/file/d/1ONZyWZeVAHUbFx5eyW2RVqncBPIg62CZ/view?usp=sharing)
+- Second Place Smart IT Achievement Game Design | May 2023| [Certificate](https://drive.google.com/file/d/1iQoJqtUR4nFxLbIROItOF_SEp0JfIM56/view?usp=sharing)
+- [State University of Telecommunications](https://duikt.edu.ua/ua/427-zagalna-informaciya-kafedra-shtuchnogo-intelektu) | Basics of Unreal Engine Blueprints | Sep 2021 - Feb 2022
 
 ### Skills
 
-- Development of vehicle and character control systems for PC and VR simulators (UE 4/5).
+- Development of PC/VR military vehicle simulator systems and gameplay mechanics using Unreal Engine.
+- Rapid integration of gameplay features for demos, marketing content, and interactive showcases.
+- Creation of educational video content: scripting, screen capture, AI voice-over, editing, and publishing for clients YouTube channel.
 - Collaborative work in cross-functional teams using Agile workflows (Jira, Trello).
-- Proficient in version control systems: Git, GitHub, Perforce (P4V).
+- Proficiency with version control systems: Git, GitHub, Perforce (P4V).
 - Implementation of advanced rendering technologies: NVIDIA DLSS, AMD FSR, Intel XeSS.
-- Experience creating educational video content (scripting, screen capture, ai voice-over, editing) for YouTube channels.
-
 
 ### Languages
 
@@ -58,7 +51,7 @@ I'm an Unreal Engine 4/5 developer. I became interested in games at the age of 1
 
 ___
 
-### [`WEBSITE`](https://www.nesteagames.com/home) | [`YOUTUBE`](http://www.youtube.com/@nest_game) | [`LINKEDIN`](https://www.linkedin.com/in/valeriisafronov) | [`PATREON`​](https://www.patreon.com/gamenestea) | [`DISCORD`](https://discord.com/invite/gVtfXVzane) | [`SKETCHFAB`](https://sketchfab.com/gamenestea) | [`ARTSTATION`](https://www.artstation.com/nestea)
+### [`WEBSITE`](https://www.nesteagames.com/home) | [`YOUTUBE`](https://www.youtube.com/@ValeriiSafronov) | [`LINKEDIN`](https://www.linkedin.com/in/valeriisafronov) | [`PATREON`​](https://www.patreon.com/gamenestea) | [`DISCORD`](https://discord.com/invite/gVtfXVzane) | [`SKETCHFAB`](https://sketchfab.com/gamenestea) | [`ARTSTATION`](https://www.artstation.com/nestea)
 
 
 ___
